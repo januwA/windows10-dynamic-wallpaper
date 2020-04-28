@@ -1,0 +1,16 @@
+{
+  "name": "windows10-dynamic-wallpaper",
+  "version": "1.0.0",
+  "author": "Ajanuw",
+  "description": "在windows10中设置动态壁纸",
+  "main": "main.js",
+  "license": "MIT",
+  "homepage": "https://github.com/januwA/windows10-dynamic-wallpaper",
+  "keywords": [
+    "Ajanuw",
+    "windows10-dynamic-wallpaper"
+  ],
+  "dependencies": {
+    "@saleae/ffi": "^3.0.2"
+  }
+}
