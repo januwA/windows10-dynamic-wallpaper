@@ -5,7 +5,7 @@
 ## Example
 ```sh
 λ node -v
-v12.16.2
+v14.16.0
 
 λ node main.js "D:\dynamic wallpaper\Nightcore-We-Wish-You-A-Merry-Christmas-Live-Wallpaper.mp4"
 ```

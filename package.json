@@ -11,6 +11,6 @@
     "windows10-dynamic-wallpaper"
   ],
   "dependencies": {
-    "@saleae/ffi": "^3.0.2"
+    "node-windows-x64": "0.0.6"
   }
 }
